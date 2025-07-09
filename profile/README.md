@@ -29,10 +29,10 @@ We’ve compiled curated content for self-paced learning and reference.
 
 ---
 
-### 💬 Join Our Community
+## 💬 Join Our Community
 
-🤖 Take on coding challenges with our Quiz Bot on Discord – test, learn, and grow together!
-📂 Quiz solutions will be regularly uploaded to our QNA Repository so you can cross-check and improve.
+🤖 Take on coding challenges with our Quiz Bot on [Discord](https://discord.gg/jCFaR57Jvz) – test, learn, and grow together!  
+📁 Quiz solutions will be regularly uploaded to our [QNA Repository](https://github.com/Ground-Zero-Coders/QNA) so you can cross-check and improve.
 
 ---
 
