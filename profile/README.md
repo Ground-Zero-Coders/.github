@@ -31,10 +31,8 @@ We’ve compiled curated content for self-paced learning and reference.
 
 ### 💬 Join Our Community
 
-Get help, share progress, collaborate on ideas, and build together.  
-We’re more than code — we’re a support system. 🤝
-
-👉 **[Join our Discord](https://discord.gg/jCFaR57Jvz)**
+🤖 Take on coding challenges with our Quiz Bot on Discord – test, learn, and grow together!
+📂 Quiz solutions will be regularly uploaded to our QNA Repository so you can cross-check and improve.
 
 ---
 
